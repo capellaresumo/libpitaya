@@ -29,7 +29,7 @@ Below we show how to build for all major platforms.
 ```bash
 # Pick the correct setup for your platform
 make setup-android-mac
-make setup-adnroid-linux
+make setup-android-linux
 # Build
 make build-android
 ```
